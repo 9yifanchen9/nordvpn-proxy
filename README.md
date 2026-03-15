@@ -2,12 +2,12 @@
     <a href="https://nordvpn.com/"><img src="https://www.freelogovectors.net/wp-content/uploads/2020/11/nordvpn-logo.png" width="400"/></a>
     </br>
     </br>
-    <a href="https://github.com/Joentje/nordvpn-proxy"><img src="https://github.com/Joentje/nordvpn-proxy/workflows/latest/badge.svg"/></a>
-    <a href="https://github.com/Joentje/nordvpn-proxy"><img src="https://github.com/Joentje/nordvpn-proxy/workflows/release/badge.svg"/></a>
-    <a href="https://github.com/Joentje/nordvpn-proxy"><img src="https://badgen.net/github/stars/Joentje/nordvpn-proxy?icon=github&label=stars&color=black"/></a>
-    <a href="https://cloud.docker.com/u/jeroenslot/repository/docker/jeroenslot/nordvpn-proxy"><img src="https://badgen.net/docker/size/jeroenslot/nordvpn-proxy?icon=docker&label=size"/></a>
-    <a href="https://cloud.docker.com/u/jeroenslot/repository/docker/jeroenslot/nordvpn-proxy"><img src="https://badgen.net/docker/pulls/jeroenslot/nordvpn-proxy?icon=docker&label=pulls"/></a>
-    <a href="https://cloud.docker.com/u/jeroenslot/repository/docker/jeroenslot/nordvpn-proxy"><img src="https://badgen.net/docker/stars/jeroenslot/nordvpn-proxy?icon=docker&label=stars"/></a>
+    <a href="https://github.com/9yifanchen9/nordvpn-proxy"><img src="https://github.com/9yifanchen9/nordvpn-proxy/workflows/latest/badge.svg"/></a>
+    <a href="https://github.com/9yifanchen9/nordvpn-proxy"><img src="https://github.com/9yifanchen9/nordvpn-proxy/workflows/release/badge.svg"/></a>
+    <a href="https://github.com/9yifanchen9/nordvpn-proxy"><img src="https://badgen.net/github/stars/9yifanchen9/nordvpn-proxy?icon=github&label=stars&color=black"/></a>
+    <a href="https://cloud.docker.com/u/9yifanchen9/repository/docker/9yifanchen9/nordvpn-proxy"><img src="https://badgen.net/docker/size/9yifanchen9/nordvpn-proxy?icon=docker&label=size"/></a>
+    <a href="https://cloud.docker.com/u/9yifanchen9/repository/docker/9yifanchen9/nordvpn-proxy"><img src="https://badgen.net/docker/pulls/9yifanchen9/nordvpn-proxy?icon=docker&label=pulls"/></a>
+    <a href="https://cloud.docker.com/u/9yifanchen9/repository/docker/9yifanchen9/nordvpn-proxy"><img src="https://badgen.net/docker/stars/9yifanchen9/nordvpn-proxy?icon=docker&label=stars"/></a>
     </br>
 </p>
 
