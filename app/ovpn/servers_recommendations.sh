@@ -32,7 +32,7 @@ if [[ ! -v SERVER ]]; then
                     export COUNTRY_CODE=$(cat $JSON_FILE_SERVER_COUNTRIES | jq '.[]  | select(.code == "'${COUNTRY^^}'") | .id')
                 else 
                     echo "$(adddate) INFO: The country codes are unknown, getting country codes from API"
-                    curl -s https://nordvpn.com/wp-admin/admin-ajax.php?action=servers_countries -o /tmp/servers_countries
+                    curl -s https://api.nordvpn.com/v1/servers/countries -o /tmp/servers_countries
                     export COUNTRY_CODE=$(cat $JSON_FILE_SERVER_COUNTRIES | jq '.[]  | select(.code == "'${COUNTRY^^}'") | .id')
             fi
 
